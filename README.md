@@ -1,3 +1,3 @@
 # PicTour
 
-Take a pic. Share with your friends. [in progress]
+Take a pic. Share with your friends.
