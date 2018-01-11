@@ -1,7 +1,6 @@
 # PicTour
 
-
 Take a picture. Share with your friends. 
 
-[In progress]
+[In progress]https://github.com/consbulaquena/PicTour/projects
 
